@@ -1,0 +1,22 @@
+GetNewFactIntent a fact
+GetNewFactIntent a got fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a got fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a got fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a got trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a got trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some got information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent got fact
+GetNewFactIntent a game of thrones fact
+GetNewFactIntent tell me a game of thrones fact
+GetNewFactIntent give me a game of thrones fact
+GetNewFactIntent tell me a game of thrones trivia
+GetNewFactIntent give me a game of thrones trivia
+GetNewFactIntent give me some game of thrones information
+GetNewFactIntent game of thrones fact
